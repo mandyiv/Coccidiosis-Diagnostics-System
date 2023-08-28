@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1095618682302-kltnq1vst0ugqdktffsvpunn29p6crgl.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1095618682302</string>
+    <string name="google_api_key" translatable="false">AIzaSyDppYguymKjr7W4v9ACQ3dmAIX37TUp0OM</string>
+    <string name="google_app_id" translatable="false">1:1095618682302:android:532d703ea826e8e18e2def</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDppYguymKjr7W4v9ACQ3dmAIX37TUp0OM</string>
+    <string name="google_storage_bucket" translatable="false">coccidiosis-diagnostic-system.appspot.com</string>
+    <string name="project_id" translatable="false">coccidiosis-diagnostic-system</string>
+</resources>
